@@ -1,4 +1,4 @@
-FROM php:7.1.13-fpm
+FROM tiredofit/alpine:3.4
 
 MAINTAINER Abed Halawi <abed.halawi@vinelab.com>
 
